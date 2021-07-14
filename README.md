@@ -8,7 +8,7 @@ Library to develop a bot for the Viber platform. [Create you first Viber bot ste
 ## Installation
 
 ```
-composer require martinjack/viber-bot-php
+composer require jackmartin/viber-bot-php
 ```
 
 ## Example
